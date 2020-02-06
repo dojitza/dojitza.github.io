@@ -125,12 +125,12 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: ""
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/dojitza"
-    - label: ""
+      url: "https://github.com/dojitza"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      # url: "https://www.linkedin.com/in/dominik-kotarski-b8b5799b/"
+      url: "https://www.linkedin.com/in/dominik-kotarski-b8b5799b/"
 
 # Site Footer
 footer:
