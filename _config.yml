@@ -107,13 +107,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dominik Kotarski"
+  name             : # "Dominik Kotarski"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Yet another software developer"
-  location         : "Zagreb, Croatia"
+  bio              : # "Yet another software developer"
+  location         : # "Zagreb, Croatia"
   email            : # "dominik.kotarski@gmx.com"
   links:
-    - label: "Contact me"
+    - label: ""
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:dominik.kotarski@gmx.com
     - label: "Website"
@@ -125,10 +125,10 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dojitza"
-    - label: "Linkedin"
+    - label: ""
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/dominik-kotarski-b8b5799b/"
 
