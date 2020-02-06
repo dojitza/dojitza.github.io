@@ -115,7 +115,7 @@ author:
   links:
     - label: ""
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:dominik.kotarski@gmx.com
+      # url: mailto:dominik.kotarski@gmx.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -127,23 +127,26 @@ author:
       # url: "https://facebook.com/"
     - label: ""
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/dojitza"
+      # url: "https://github.com/dojitza"
     - label: ""
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/dominik-kotarski-b8b5799b/"
+      # url: "https://www.linkedin.com/in/dominik-kotarski-b8b5799b/"
 
 # Site Footer
 footer:
   links:
+    - label: ""
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:dominik.kotarski@gmx.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
+    - label: ""
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/dojitza"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -153,6 +156,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: ""
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dominik-kotarski-b8b5799b/"
 
 
 # Reading Files
