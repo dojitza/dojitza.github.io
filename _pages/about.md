@@ -1,5 +1,6 @@
 ---
 permalink: /about/
+author_profile: false
 ---
 
 My name is Dominik Kotarski.
