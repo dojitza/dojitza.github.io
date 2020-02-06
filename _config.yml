@@ -109,11 +109,11 @@ analytics:
 author:
   name             : "Dominik Kotarski"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My bio :)"
+  bio              : "Yet another software developer"
   location         : "Zagreb, Croatia"
   email            : "dominik.kotarski@gmx.com"
   links:
-    - label: "Email"
+    - label: "Contact me"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
@@ -127,10 +127,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/dojitza"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/dominik-kotarski-b8b5799b/"
 
 # Site Footer
 footer:
@@ -287,10 +287,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: # true
       share: false
       related: false
-      classes: wide
+
 
