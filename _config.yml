@@ -284,6 +284,11 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
 
 # Defaults
 defaults:
@@ -300,7 +305,6 @@ defaults:
       related: false
       toc: true
 
-
   # _pages
   - scope:
       path: ""
@@ -315,5 +319,14 @@ defaults:
       text: "Some text here."
     - title: "Another Title"
       text: "More text here."
+  
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: false
 
 
