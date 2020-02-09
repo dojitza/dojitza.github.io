@@ -1,6 +1,6 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "Bumpy"
+excerpt: "Bumpy is an app that enables users to record their cycling trips and to gather valuable road condition data"
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
