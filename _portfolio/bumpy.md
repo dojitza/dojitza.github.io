@@ -8,11 +8,11 @@ sidebar:
   - title: "Role"
     #image: http://placehold.it/350x250
     #image_alt: "logo"
-    text: "Devops, backend development"
+    text: "Dev-ops, backend development"
   - title: "Contributions"
-    text: "Was responsible for managing the system and devops tasks such as deployment, server maintenance and similar. Aided the backend team in development" 
+    text: "Was responsible for dev-ops tasks such as deployment, server maintenance and similar. Aided the backend team in development" 
   - title: "Takeaways"
-    text: "Learned about software development with a geographically dislocated team and challenges that arise as a result. Further familiarised myself with scripting, software installation and integration, especially on linux machines."
+    text: "Learned about software development with a geographically dislocated team and challenges that arise as a result. Expanded my knowledge of  software installation and integration and particularly on linux servers"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
