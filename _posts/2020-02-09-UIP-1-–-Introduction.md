@@ -3,10 +3,16 @@ Title: UIP 1 - Introduction
 ---
 
 Hello and welcome to the introduction of my new project.
-It will be a 2.5d platformer game the idea of which me and my friend came up with when we were 9 years old.
 
-I am building this game to improve upon my knowledge of c++ and surrounding tools.
+I will be making a 2.5d platformer game, its purpose being learning advanced c++ and surrounding tools.\
 I intend the game to be multi-platform and to support several low level graphic libraries for rendering.
-Because I am not very familiar with the graphic libraries, I am going to start with [SDL](https://www.libsdl.org/) – a simple 2d library built around openGL.
-I will try to abstract the rendering library away and will address this in one of the following posts.
+Because of this I will try to abstract the rendering library away which will hopefully be a good lesson in modularity.\
+I am not very familiar with graphic libraries, so I am going to use [SDL](https://www.libsdl.org/) – a simple 2d library built around openGL.
+
+This project will include building my own rendering engine and writing compatibility layers around concrete libraries (only SDL at first). I intend to build game logic in parallel, adding features to the renderer as required by the game. Also, I will be writing a series of posts documenting as much of the development process as possible. This is intended as an insight into my process, but might also come in handy for someone tackling a similar project.
+
+That's it! Stay tuned for the next post, where I will talk about the dreaded process of setting up the development environment.
+
+
+
 
