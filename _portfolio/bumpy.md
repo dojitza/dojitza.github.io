@@ -2,8 +2,8 @@
 title: "Bumpy"
 excerpt: "Bumpy is an app that enables users to record their cycling trips and to gather valuable road condition data"
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  #image: /assets/images/foo-bar-identity.jpg
+  #teaser: /assets/images/foo-bar-identity-th.jpg
 sidebar:
   - title: "Role"
     #image: http://placehold.it/350x250
