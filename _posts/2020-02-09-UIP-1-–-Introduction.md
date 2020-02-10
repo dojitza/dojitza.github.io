@@ -1,6 +1,9 @@
 ---
 Title: UIP 1 - Introduction
 toc: false
+sidebar:
+- title: "Project info"
+    text: "https://github.com/dojitza/uip"
 ---
 
 Hello and welcome to the introduction of my new project.
