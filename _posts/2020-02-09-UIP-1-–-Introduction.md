@@ -3,7 +3,7 @@ Title: UIP 1 - Introduction
 toc: false
 sidebar:
   - title: "Project repository"
-    url: "https://github.com/dojitza/uip"
+    url: https://github.com/dojitza/uip
 ---
 
 Hello and welcome to the introduction of my new project.
