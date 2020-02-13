@@ -1,7 +1,6 @@
 ---
 Title: UIP 2 - Development environment
-tags: msvc clang cmake make sdl2 windows linux
-classes: wide
+tags: uip game msvc clang cmake make sdl2 windows linux
 sidebar:
   - title: "Project repository"
     text: "<https://github.com/dojitza/uip>"

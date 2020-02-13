@@ -1,6 +1,6 @@
 ---
 Title: UIP 1 - Introduction
-tags: c++ game 2.5d sdl2 project platformer
+tags: uip c++ game 2.5d sdl2 project platformer
 toc: false
 sidebar:
   - title: "Project repository"
