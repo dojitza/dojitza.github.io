@@ -15,13 +15,13 @@ sidebar:
     text: "Gained experience in software development as a part of a geographically dislocated team. Expanded knowledge of software installation and integration – particularly on linux servers"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    #image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
   - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+    #image_path: assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
   - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+    #image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
 ---
 
