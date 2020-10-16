@@ -10,7 +10,7 @@ sidebar:
     #image_alt: "logo"
     text: "Dev-ops, backend development"
   - title: "Contribution"
-    text: "Managed dev-ops tasks such as deployment and server maintenance. Aided the backend team in development" 
+    text: "Managed dev-ops tasks such as deployment and server maintenance. Aided the backend team in development"
   - title: "Takeaways"
     text: "Gained experience in software development as a part of a geographically dislocated team. Expanded knowledge of software installation and integration – particularly on linux servers"
 gallery:
@@ -25,8 +25,6 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Lorem ipsum
+Bumby
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
-
-dolor sit amet
