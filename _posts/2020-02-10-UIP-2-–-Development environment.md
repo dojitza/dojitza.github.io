@@ -19,6 +19,7 @@ The compiler I use on windows is MSVC, and on linux I opted for CLang. I've hear
 I am not sure how this is going to turn out, but I hope that the hurdles I encounter will highlight the differences in these compilers and how those affect the development process.
 
 ## Cmake and SDL
+
 This is the project structure that I will be starting with.
 
 ```
@@ -31,12 +32,11 @@ This is the project structure that I will be starting with.
     └── main.cpp
 ```
 
-As I mentioned in my [introductory post]({% post_url 2020-02-09-UIP-1-–-Introduction %}), I will be starting out with SDL2 as my graphics library. In order to use SDL2, we need to make sure our project can link against it and include it's headers.
+As I mentioned in my [introductory post]({% post_url 2020-02-09-UIP-1-–-Introduction %}), I will be starting out with SDL2 as my graphics library. In order to use SDL2, we need to make sure our project can link against it and include its headers.
 Note the `FindSDL2.cmake` file. This is required on Windows to find the SDL2 library. We will provide this file to cmake and it will find the library for us. This isn't all of it though.  
 A very helpful [blog post](https://trenki2.github.io/blog/2017/06/02/using-sdl2-with-cmake/) pointed out that there is an additional file needed for cmake to sucessfuly find SDL2 on windows. It should be put directly into the folder of the unpacked SDL2 development library.
 
-The file should be named `sdl2-config.cmake` and here are it's contents:
-
+The file should be named `sdl2-config.cmake` and here are its contents:
 
 ```cmake
 set(SDL2_INCLUDE_DIRS "${CMAKE_CURRENT_LIST_DIR}/include")
@@ -52,7 +52,6 @@ string(STRIP "${SDL2_LIBRARIES}" SDL2_LIBRARIES)
 ```
 
 And here are the contents of CMakelists.txt
-
 
 ```cmake
 cmake_minimum_required(VERSION 3.10.2)
@@ -79,6 +78,7 @@ find_package(SDL2 REQUIRED)
 include_directories(${SDL2_INCLUDE_DIR})
 target_link_libraries(uip ${SDL2_LIBRARY})
 ```
+
 Along the usual cmake drill, notice the lines setting `CMAKE_PREFIX_PATH`, `CMAKE_MODULE_PATH`, and the `find_package` command. `CMAKE_PREFIX_PATH` is a variable which is used by the `find_xxx` commands (`find_package` in this case). It is supposed to contain the paths to root directories of the files that are to be found. `CMAKE_MODULE_PATH`, on the other hand points to the directories containing modules that search for the packages (in this case, `projectroot/cmake` which contains `FindSDL2.cmake`).
 
 You may notice 2 set commands defining the compiler surrounded by a conditional. This is to set the compiler only if we are on unix. The compiler is otherwise selected by cmake based on the environment variables and arguments to the program. This is handled by the IDE on Windows, but for my Linux tests I had to manually set the compiler for now since I was not using an IDE.
@@ -130,14 +130,10 @@ int main(int argc, char* args[]) {
 }
 ```
 
-This program should create a window, fill it with white color, and close it after 2 seconds. 
+This program should create a window, fill it with white color, and close it after 2 seconds.
 
 ![Program Window](/assets/images/first_window.png)
 
 Success! The test program builds and runs!
 
 That marks the end of this post. Stay tuned for more and see you soon!
-
-
-
-
