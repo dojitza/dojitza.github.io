@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Bumpy"
 excerpt: "Bumpy is an app that enables users to record their cycling trips and to gather valuable road condition data"
 header:
@@ -27,4 +27,4 @@ gallery:
 
 Bumby
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="This is a sample gallery to go along with this case study." %} -->
