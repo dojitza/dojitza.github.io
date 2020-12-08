@@ -15,7 +15,7 @@ sidebar:
   #  text: "[ispovesti.ml](http://ispovesti.ml)"
 ---
 
-Ispovest.ml allows users to generate confessions similar to those of a popular Adriatic region website ispovesti.com. Users can provide an optional prefix and post these confessions under a pseudonym. Also, all users can react to generated confessions, which are then selected by a simple algorithm to be published on the 'main list' of generated confessions.
+Ispovesti.ml allows users to generate confessions similar to those of a popular Adriatic region website ispovesti.com. Users can provide an optional prefix and post these confessions under a pseudonym. Also, all users can react to generated confessions, which are then selected by a simple algorithm to be published on the 'main list' of generated confessions.
 
 Ispovesti.ml's frontend is a simple react-based single-page app. The design is mobile first and uses bootstrap for the main UI components.
 
