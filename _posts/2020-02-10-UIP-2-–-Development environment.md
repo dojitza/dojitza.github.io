@@ -6,6 +6,8 @@ sidebar:
     text: "<https://github.com/dojitza/uip>"
   - title: "Source tag"
     text: "[blogpost2](https://github.com/dojitza/uip/releases/tag/blogpost2)"
+#hidden
+published: false
 ---
 
 Hello! In this post I will talk about setting up the development environment for my UIP project.
