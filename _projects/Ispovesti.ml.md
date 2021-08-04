@@ -23,5 +23,5 @@ The backend service is written in flask and backed by SQLite. The task of confes
 
 The generation process was built using a gpt-2 library [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple). With its help the 355M hyperparameter gpt-2 model was tuned to our data, which was taken directly from the source website. A total of around 120K confessions were used.
 
-Currently the website is not functional due to the high costs associated with running the backend service.
+Currently the website backend is not running due to its high running costs. 
 
