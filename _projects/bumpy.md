@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Bumpy"
 excerpt: "Bumpy is an app that enables users to record their cycling trips and to gather valuable road condition data"
 header:
@@ -13,18 +13,10 @@ sidebar:
     text: "Managed dev-ops tasks such as deployment and server maintenance. Aided the backend team in development"
   - title: "Takeaways"
     text: "Gained experience in software development as a part of a geographically dislocated team. Expanded knowledge of software installation and integration – particularly on linux servers"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    #image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    #image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    #image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
 ---
 
-Bumby
+Bumpy was a student project I was a part of during my penultimate college semester. The project highlighted collaboration in a geographically dislocated work environment.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %} -->
+You can read more about Bumpy [here](https://www.fer.unizg.hr/rasip/dsd/projects/cycling_advocacy)
+
+{% include gallery caption="This is a sample gallery to go along with this case study." %}
