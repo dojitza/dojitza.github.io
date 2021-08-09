@@ -19,4 +19,3 @@ Bumpy was a student project I was a part of during my penultimate college semest
 
 You can read more about Bumpy [here](https://www.fer.unizg.hr/rasip/dsd/projects/cycling_advocacy)
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
