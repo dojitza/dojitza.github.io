@@ -5,8 +5,7 @@ toc: false
 sidebar:
   - title: "Project repository"
     text: "<https://github.com/dojitza/uip>"
-#hidden
-published: false
+published: true
 ---
 
 Hello and welcome to the introduction of my new project.
