@@ -14,7 +14,7 @@ I oversimplify and formulate two paths:
 
 A: Work for a wage. Invest in the global economy. Spend time raising children. Pursue low-yield, enjoyment focused hobbies and personal connection. Give to others by volunteering and being active in the community. Leave a mark in the world.
 
-B: Grind yourself for the benefit of humankind by founding a company.With any luck, it provides value for a large number of people, you live better off than in scenario A, and contribute more to the community with your generous resource allocation, job provision etc. Validate your ambition and leave a mark in the world.
+B: Grind yourself for the benefit of humankind by founding a company. With any luck, it provides value for a large number of people, you live better off than in scenario A, and contribute more to the community with your generous resource allocation, job provision etc. Validate your ambition and leave a mark in the world.
 
 To some, option A sounds like a superior choice. However, in my opinion it is unsuitable for many. There are individuals that are incapable of living the boring life. These people usually spend their time betting on sports, day trading stocks/cryptocurrency or gambling. Founding a company at least involves a lot of agency.
 
