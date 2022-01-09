@@ -7,6 +7,7 @@ published: true
 My name is Dominik Kotarski.
 I'm a software engineer from Zagreb, Croatia, currently employed at ZG Informatika.
 
-I am passionate about accessible education, since it is my firm belief that most of humanity lacks proper access to it. My dream is to bring the best possible learning experience to every single child and adult in the world. 
+I have iterated through a few about pages. None of them were good.
+This is a placeholder until I come up with something.
 
-I encourage you to take a look at my [personal projects](/projects)
+In the meantime, I encourage you to take a look at my [personal projects](/projects)
