@@ -1,5 +1,5 @@
 ---
-Title: How to charge more as a freelancer
+Title: Streamlining freelance charging
 tags: freelancing charging 
 toc: false
 published: true
