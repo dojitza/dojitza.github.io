@@ -4,7 +4,7 @@ author_profile: true
 published: true
 ---
 
-My name is Dominik Kotarski. Currently working as a software engineer at Microsoft
+My name is Dominik Kotarski. I'm Currently working as a software engineer at Microsoft.
 
 Take a look at my [personal projects](/projects)
 
