@@ -4,10 +4,8 @@ author_profile: true
 published: true
 ---
 
-My name is Dominik Kotarski.
-I'm a software engineer from Zagreb, Croatia, currently employed at ZG Informatika.
+My name is Dominik Kotarski. Currently working as a software engineer at Microsoft
 
-I have iterated through a few about pages. None of them were good.
-This is a placeholder until I come up with something.
+Take a look at my [personal projects](/projects)
 
-In the meantime, I encourage you to take a look at my [personal projects](/projects)
+Also, here is my [resume](/assets/documents/Dominik_Kotarski_cv_english.pdf)
