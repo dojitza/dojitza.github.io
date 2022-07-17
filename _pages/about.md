@@ -2,6 +2,7 @@
 permalink: /about/
 author_profile: true
 published: true
+author_profile: false
 ---
 
 My name is Dominik Kotarski. I'm Currently working as a software engineer at Microsoft.
