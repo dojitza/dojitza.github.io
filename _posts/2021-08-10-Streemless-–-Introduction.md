@@ -1,11 +1,14 @@
 ---
 Title: Streemless - Introduction
-tags: audio multiroom WebRTC
+tags:
+  - audio
+  - multiroom
+  - WebRTC
 toc: false
 sidebar:
-  - title: "Project repository"
-    text: "<https://github.com/dojitza/uip>"
-published: true
+  - title: Project repository
+    text: <https://github.com/dojitza/uip>
+published: false
 ---
 
 Do you often wander around your house with earbuds, bobbing your head to the rhythm?

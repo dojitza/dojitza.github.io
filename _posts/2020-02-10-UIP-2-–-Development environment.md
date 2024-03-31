@@ -1,12 +1,21 @@
 ---
 Title: UIP 2 - Development environment
-tags: uip game msvc clang cmake make sdl2 windows linux
+tags:
+  - uip
+  - game
+  - msvc
+  - clang
+  - cmake
+  - make
+  - sdl2
+  - windows
+  - linux
 sidebar:
-  - title: "Project repository"
-    text: "<https://github.com/dojitza/uip>"
-  - title: "Source tag"
+  - title: Project repository
+    text: <https://github.com/dojitza/uip>
+  - title: Source tag
     text: "[blogpost2](https://github.com/dojitza/uip/releases/tag/blogpost2)"
-published: true
+published: false
 ---
 
 Hello! In this post I will talk about setting up the development environment for my UIP project.

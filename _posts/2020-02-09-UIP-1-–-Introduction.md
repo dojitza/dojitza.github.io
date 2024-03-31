@@ -1,11 +1,18 @@
 ---
 Title: UIP 1 - Introduction
-tags: uip c++ game 2.5d sdl2 project platformer
+tags:
+  - uip
+  - c++
+  - game
+  - 2.5d
+  - sdl2
+  - project
+  - platformer
 toc: false
 sidebar:
-  - title: "Project repository"
-    text: "<https://github.com/dojitza/uip>"
-published: true
+  - title: Project repository
+    text: <https://github.com/dojitza/uip>
+published: false
 ---
 
 Hello and welcome to the introduction of my new project.

@@ -1,7 +1,12 @@
 ---
 Title: Founding is not boring
-tags: startup founding thoughts career
+tags:
+  - startup
+  - founding
+  - thoughts
+  - career
 toc: false
+published: false
 ---
 
 Being young in the tech industry is sometimes tantalizing. The abundance of choice the seller's market provides can sometimes paralize a person. A dream of founding one's own venture creeps into the mind.
