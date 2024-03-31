@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "c5fd84d894de09a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe8f26dce801ff69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6acb330fd74707a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-31-3-Subscriptions-suck.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a8a1e63971c70f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d70c1e74d02f9e18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "165c69e8ee5407a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "018d19c2ba7ad055",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "610096ac836456ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6ab93cd9dc69590c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e607956938e4fa37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08dfb54b5c75029e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-31-3-Subscriptions-suck.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e669c308ecdff470",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-31-3-Subscriptions-suck.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1bb032fd7bed5fcd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c0b2f882060fd3f5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-31-3-Subscriptions-suck.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6acb330fd74707a7",
+  "lastOpenFiles": [
+    "2022-01-9-Streamlining-freelance-charging.md",
+    "2024-31-3-Subscriptions-suck.md"
+  ]
+}
