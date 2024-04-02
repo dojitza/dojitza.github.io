@@ -27,15 +27,15 @@ This means a lot of otherwise completely fair subscription schemes miss out on m
 ### What you can do as a business
 
 You can always go back to pay once pricing, but I assume you don't want to do that.
-Instead, Invest heavily into positive differentiation of your subscription contracts. 
+Instead, invest heavily into positive differentiation of your subscription contracts. 
 
 There are more than enough companies building subscription moats the wrong way, and dark pattern ridden subscription flows are a particularly shitty example.
 
 I argue you can do a lot just by promising the user that they won't be forced to cross a very filthy moat they fell into while trying to leave someone's business before.
 
-One of the values of a subscriptions for a customer is being carefree and I can't be carefree while fearing that cancelling will be a nightmare. 
+ Being carefree is one of the values I expect a subscription to be, and I can't be carefree while I'm being haunted by ghosts of past subscription cancellation experiences.
 
-Here are a few things you could say. Please ask your copywriter to come up with something better though.
+Here are a few things you could say:
 
 - “We don’t want to see you go, but if you want to, it will take 1 click”
 - “Unsubscribing with us is easier then subscribing”
@@ -46,6 +46,6 @@ When unsubscribing is so easy, make it clear that their account is not lost in c
 
 - "Unsubscribing take one click, but your data is safe for 30 days in case you change your mind unless you explicitly tell us to delete it."
 
-Also please deliver on these promises and actually invest in end of subscription experience for your users. We will be forever grateful and gladly give you all our money.
+Also please deliver on these promises and actually invest in end of subscription experience for your users. We will be forever grateful and gladly give you all of our money.
 
 Sincerely, a disgruntled consumer
