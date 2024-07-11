@@ -5,7 +5,7 @@ toc: false
 published: true
 ---
 
-Dark patterns in subscriptions are a huge problem. I believe that they alone have already cost the B2C XaaS industry billions in potential revenue.
+Dark patterns in subscriptions are a huge problem. I believe that they alone have already cost the consumer facing industry billions in potential revenue.
 
 To unsubscribe from a service, you often have to do one or multiple of:
 
