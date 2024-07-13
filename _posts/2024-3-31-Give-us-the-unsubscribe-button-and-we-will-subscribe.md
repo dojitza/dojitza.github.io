@@ -1,11 +1,13 @@
 ---
-Title: Subscriptions suck
+Title: Give us the unsubscribe button and we will subscribe
 tags: 
 toc: false
 published: true
 ---
 
-Dark patterns in subscriptions are a huge problem. I believe that they alone have already cost the consumer facing industry billions in potential revenue.
+Dark patterns in subscriptions have become a huge problem.
+ICPEN reports that at least *75%* of companies emply at least one dark pattern in marketing of their subscription services - https://icpen.org/news/1360  
+On a purely personal opinion level, I believe that they alone have already cost the consumer facing industry billions in potential revenue.
 
 To unsubscribe from a service, you often have to do one or multiple of:
 
@@ -31,9 +33,9 @@ Instead, invest heavily into positive differentiation of your subscription contr
 
 There are more than enough companies building subscription moats the wrong way, and dark pattern ridden subscription flows are a particularly shitty example.
 
-I argue you can do a lot just by promising the user that they won't be forced to cross a very filthy moat they fell into while trying to leave someone's business before.
+I argue you can do a lot just by promising us we won't be forced to cross a very shaky bridge from which we fell while trying to leave someone's business before.
 
- Being carefree is one of the values I expect a subscription to be, and I can't be carefree while I'm being haunted by ghosts of past subscription cancellation experiences.
+Being carefree is one of the values I expect a subscription to be, and I can't be carefree while I'm being haunted by ghosts of past subscription cancellation experiences.
 
 Here are a few things you could say:
 
@@ -44,7 +46,7 @@ Here are a few things you could say:
 
 When unsubscribing is so easy, make it clear that their account is not lost in case they want to come back.
 
-- "Unsubscribing take one click, but your data is safe for 30 days in case you change your mind unless you explicitly tell us to delete it."
+- "Unsubscribing takes one click, but your data is safe for 30 days in case you change your mind unless you explicitly tell us to delete it."
 
 Also please deliver on these promises and actually invest in end of subscription experience for your users. We will be forever grateful and gladly give you all of our money.
 
