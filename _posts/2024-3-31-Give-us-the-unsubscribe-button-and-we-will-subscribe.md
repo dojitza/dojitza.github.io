@@ -6,8 +6,8 @@ published: true
 ---
 
 Dark patterns in subscriptions have become a huge problem.
-ICPEN reports that at least *75%* of companies emply at least one dark pattern in marketing of their subscription services - https://icpen.org/news/1360  
-On a purely personal opinion level, I believe that they alone have already cost the consumer facing industry billions in potential revenue.
+ICPEN reports that at least 75% of companies employ at least one dark pattern in marketing of their subscription services - https://icpen.org/news/1360  
+My opinion: This alone has already cost the industry billions in potential revenue.
 
 To unsubscribe from a service, you often have to do one or multiple of:
 
@@ -24,7 +24,7 @@ As a consumer, I can’t do much, other than spend extra time researching whethe
 
 In practice, I don't do that and just avoid subscriptions unless there is no other option. In my mind, the concept of subscription is tainted, and I always opt for a free or pay once (even if more expensive) alternative. 
 
-This means a lot of otherwise completely fair subscription schemes miss out on my money.
+This means a lot of great companies with otherwise completely fair subscriptions miss out on my money.
 
 ### What you can do as a business
 
